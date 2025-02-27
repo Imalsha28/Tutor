@@ -8,7 +8,7 @@ class TutorFinderApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Tutor Finder',
+      title: 'Tutor Finder App',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: HomePage(title: 'Tutor Finder'),
     );
